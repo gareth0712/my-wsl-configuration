@@ -21,6 +21,6 @@
 ```
 @echo off
 
-F:\wsl\ubuntu\Ubuntu\ubuntu2004.exe
+D:\wsl\ubuntu\ubuntu2004.exe
 ```
 2. Saved it in location that's saved in "System variables" in Windows' Environment Variables
